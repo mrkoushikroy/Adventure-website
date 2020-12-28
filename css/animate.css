@@ -1,0 +1,8 @@
+.anim img{
+    animation: logo 3s linear infinite;
+}
+@keyframes logo{
+
+    0% {transform: rotate(0);}
+    0% {transform: rotate(360deg);}
+}
